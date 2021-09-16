@@ -2,6 +2,20 @@
 
 Dataset usado: https://www.kaggle.com/augustop/portuguese-tweets-for-sentiment-analysis
 
+## Referências
+
+LeIA:
+- https://github.com/rafjaa/LeIA
+
+SentiLex:
+- https://github.com/sillasgonzaga/lexiconPT/tree/master/data-raw
+- https://github.com/caiomsouza/u-tad-eds-proyecto-final/blob/master/lexicon/SentiLex-PT01/SentiLex-lem-PT01.txt
+- https://b2share.eudat.eu/records/93ab120efdaa4662baec6adee8e7585f
+- https://github.com/rdenadai/sentiment-analysis-2018-president-election/tree/master/dataset
+
+TextBlob:
+- https://github.com/sloria/TextBlob
+
 ## License
 
 The MIT License (MIT)
